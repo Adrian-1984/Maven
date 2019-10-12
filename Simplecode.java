@@ -6,6 +6,7 @@ public class Simplecode {
 		x = x * 17;
 		System.out.println("x is " + x);
 		//this is a comment
+		//added feature1 comment
 	}
 
 }
