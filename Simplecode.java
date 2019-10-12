@@ -7,6 +7,7 @@ public class Simplecode {
 		System.out.println("x is " + x);
 		//this is a comment
 		//added feature1 comment
+		//added feature2 comment
 	}
 
 }
